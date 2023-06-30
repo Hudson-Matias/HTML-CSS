@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+h1{
+    border: 9px solid black;
+    padding: 10px;
+
+    /* 
+    border-image-source: url('borda.png');
+    border-image-slice: 27;  AUMENTA A LARGURA DA BORDA 
+    border-image-repeat: repeat; 
+    SIMPLIFICANDO ABAIXO */
+
+    border-image: url('borda.png') 27 repeat;
+}
