@@ -7,7 +7,7 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
 ### Primeiro Módulo
 
-O primeiro exercício é para testar o site
+<p>O primeiro exercício é para testar o site</p>
 <a href="https://hudson-matias.github.io/HTML-CSS/Exercicios/HTML-Modulo-1/Ex001/" target="_blank">Executar o Exercício 001</a>
 
 O segundo exercício é sobre Parágrafos e quebra de linhas coloquei também alguns emojis
