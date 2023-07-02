@@ -29,8 +29,7 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
 <p>O décimo primeiro é aprendendo a usar links <a href="https://hudson-matias.github.io/HTML-CSS/Exercicios/HTML-Modulo-1/Ex011.1 - LinksPáginas" target="_blank">Executar o Exercício 011</a></p>
 
-<p>O décimo segundo é aprendendo a fazer imagem dinâmica e aprendendo a colocar áudio.</p><br>
-<p>Vc pode testar a imagem dinâmica aumentando a tela do navegador ou diminuindo <a href="https://hudson-matias.github.io/HTML-CSS/Exercicios/HTML-Modulo-1/Ex012 - Imagens e Áudios" target="_blank">Executar o Exercício 012</a></p>
+<p>O décimo segundo é aprendendo a fazer imagem dinâmica e aprendendo a colocar áudio. Vc pode testar a imagem dinâmica aumentando a tela do navegador ou diminuindo <a href="https://hudson-matias.github.io/HTML-CSS/Exercicios/HTML-Modulo-1/Ex012 - Imagens e Áudios" target="_blank">Executar o Exercício 012</a></p>
 
 <p>O décimo terceiro é aprendendo a colocar vídeos tanto instalado como do próprio youtube <a href="https://hudson-matias.github.io/HTML-CSS/Exercicios/HTML-Modulo-1/Ex013 - Vídeos" target="_blank">Executar o Exercício 013</a></p>
 
