@@ -1,6 +1,3 @@
-<style>
-    <link rel="shortcut icon" href="https://e7.pngegg.com/pngimages/840/443/png-clipart-html-5-logo-web-development-html-css3-canvas-element-web-design-w3c-html5-logo-miscellaneous-text-thumbnail.png" type="image/x-icon">
-</style>
 # HTML-CSS
 Curso de HTML5 e CSS3 do CursoemVideo
 
