@@ -1,3 +1,6 @@
+<style>
+    <link rel="shortcut icon" href="https://e7.pngegg.com/pngimages/840/443/png-clipart-html-5-logo-web-development-html-css3-canvas-element-web-design-w3c-html5-logo-miscellaneous-text-thumbnail.png" type="image/x-icon">
+</style>
 # HTML-CSS
 Curso de HTML5 e CSS3 do CursoemVideo
 
@@ -37,5 +40,6 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 <p>No código 1 que é esse, coloquei os styles dentro do h1 em cada um deles, apertando o F12 ou indo em inspecionar você poderá velos <a href="https://hudson-matias.github.io/HTML-CSS/Exercicios/HTML-Modulo-1/Ex014 - CSS" target="_blank">Executar o Exercício 014 Parte 1</a></p>
 
 <p>No código 2 aprendi que podemos colocar o style(Estilo) dentro de HEAD para usarmos em todo o código, ficando mais fácil de alterar a página <a href="https://hudson-matias.github.io/HTML-CSS/Exercicios/HTML-Modulo-1/Ex014 - CSS - Parte - 2" target="_blank">Executar o Exercício 014 Parte 2</a></p>
+
 
 <p>No código 3 aprendi a criar e linkar um arquivo CSS dentro do HTML para fazermos as alterações assim deixando o HTML apenas na semântica <a href="https://hudson-matias.github.io/HTML-CSS/Exercicios/HTML-Modulo-1/Ex014 - CSS - Parte - 3" target="_blank">Executar o Exercício 014 Parte 3</a></p>
